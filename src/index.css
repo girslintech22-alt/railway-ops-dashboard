@@ -1,0 +1,18 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Inter", sans-serif;
+  background: #0f1318;
+  color: #e8edf4;
+}
+
+.telemetry-scan {
+  background: linear-gradient(180deg, rgba(98, 197, 215, 0.06), rgba(98, 197, 215, 0));
+}
