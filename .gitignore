@@ -1,20 +1,5 @@
-﻿# Python
-.venv
-__pycache__/
-*.pyc
-
-# Node
-node_modules
-.next
-
-# Env
-.env
-.vercel
-
-# Build
+﻿node_modules
 dist
-build
-
-# OS
-.DS_Store
-Thumbs.db
+.next
+.venv
+.env
