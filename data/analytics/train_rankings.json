@@ -1,0 +1,137 @@
+[
+  {
+    "trainNumber": "22436",
+    "trainName": "Varanasi Vande Bharat Express",
+    "trainType": "Mail/Express",
+    "avgSpeedKmph": 95.0,
+    "totalHalts": 4,
+    "travelTimeMinutes": 480.0,
+    "rank": 1
+  },
+  {
+    "trainNumber": "20171",
+    "trainName": "Hazrat Nizamuddin Vande Bharat Express",
+    "trainType": "Mail/Express",
+    "avgSpeedKmph": 92.0,
+    "totalHalts": 5,
+    "travelTimeMinutes": 420.0,
+    "rank": 2
+  },
+  {
+    "trainNumber": "12951",
+    "trainName": "New Delhi Tejas Rajdhani Express",
+    "trainType": "Rajdhani Express",
+    "avgSpeedKmph": 89.0,
+    "totalHalts": 8,
+    "travelTimeMinutes": 900.0,
+    "rank": 3
+  },
+  {
+    "trainNumber": "12301",
+    "trainName": "New Delhi Rajdhani Express",
+    "trainType": "Rajdhani Express",
+    "avgSpeedKmph": 84.0,
+    "totalHalts": 9,
+    "travelTimeMinutes": 1020.0,
+    "rank": 4
+  },
+  {
+    "trainNumber": "20643",
+    "trainName": "Coimbatore Vande Bharat Express",
+    "trainType": "Mail/Express",
+    "avgSpeedKmph": 82.0,
+    "totalHalts": 5,
+    "travelTimeMinutes": 360.0,
+    "rank": 5
+  },
+  {
+    "trainNumber": "12263",
+    "trainName": "Hazrat Nizamuddin AC Duronto Express",
+    "trainType": "Duronto Express",
+    "avgSpeedKmph": 76.0,
+    "totalHalts": 7,
+    "travelTimeMinutes": 1140.0,
+    "rank": 6
+  },
+  {
+    "trainNumber": "22301",
+    "trainName": "New Jalpaiguri Vande Bharat Express",
+    "trainType": "Mail/Express",
+    "avgSpeedKmph": 75.0,
+    "totalHalts": 6,
+    "travelTimeMinutes": 420.0,
+    "rank": 7
+  },
+  {
+    "trainNumber": "12259",
+    "trainName": "Bikaner AC Duronto Express",
+    "trainType": "Duronto Express",
+    "avgSpeedKmph": 75.0,
+    "totalHalts": 12,
+    "travelTimeMinutes": 1500.0,
+    "rank": 8
+  },
+  {
+    "trainNumber": "12213",
+    "trainName": "Delhi Sarai Rohilla AC Duronto Express",
+    "trainType": "Duronto Express",
+    "avgSpeedKmph": 73.0,
+    "totalHalts": 8,
+    "travelTimeMinutes": 1920.0,
+    "rank": 9
+  },
+  {
+    "trainNumber": "22691",
+    "trainName": "Hazrat Nizamuddin Rajdhani Express",
+    "trainType": "Rajdhani Express",
+    "avgSpeedKmph": 71.0,
+    "totalHalts": 16,
+    "travelTimeMinutes": 1980.0,
+    "rank": 10
+  },
+  {
+    "trainNumber": "12273",
+    "trainName": "New Delhi Duronto Express",
+    "trainType": "Duronto Express",
+    "avgSpeedKmph": 70.0,
+    "totalHalts": 7,
+    "travelTimeMinutes": 1260.0,
+    "rank": 11
+  },
+  {
+    "trainNumber": "12431",
+    "trainName": "Hazrat Nizamuddin Rajdhani Express",
+    "trainType": "Rajdhani Express",
+    "avgSpeedKmph": 69.0,
+    "totalHalts": 21,
+    "travelTimeMinutes": 2460.0,
+    "rank": 12
+  },
+  {
+    "trainNumber": "12245",
+    "trainName": "SMVT Bengaluru Duronto Express",
+    "trainType": "Duronto Express",
+    "avgSpeedKmph": 67.0,
+    "totalHalts": 6,
+    "travelTimeMinutes": 1740.0,
+    "rank": 13
+  },
+  {
+    "trainNumber": "22223",
+    "trainName": "Sainagar Shirdi Vande Bharat Express",
+    "trainType": "Mail/Express",
+    "avgSpeedKmph": 66.0,
+    "totalHalts": 6,
+    "travelTimeMinutes": 300.0,
+    "rank": 14
+  },
+  {
+    "trainNumber": "12423",
+    "trainName": "New Delhi Rajdhani Express",
+    "trainType": "Rajdhani Express",
+    "avgSpeedKmph": 65.0,
+    "totalHalts": 25,
+    "travelTimeMinutes": 2220.0,
+    "rank": 15
+  }
+]

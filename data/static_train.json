@@ -1,0 +1,121 @@
+[
+  {
+    "trainNumber": "22436",
+    "trainName": "Vande Bharat Express",
+    "category": "Vande Bharat",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "20171",
+    "trainName": "Vande Bharat Express",
+    "category": "Vande Bharat",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "22223",
+    "trainName": "Vande Bharat Express",
+    "category": "Vande Bharat",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "20643",
+    "trainName": "Vande Bharat Express",
+    "category": "Vande Bharat",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "22301",
+    "trainName": "Vande Bharat Express",
+    "category": "Vande Bharat",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "12951",
+    "trainName": "Mumbai Rajdhani",
+    "category": "Rajdhani",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "12301",
+    "trainName": "Howrah Rajdhani",
+    "category": "Rajdhani",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "12431",
+    "trainName": "Trivandrum Rajdhani",
+    "category": "Rajdhani",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "12423",
+    "trainName": "Dibrugarh Rajdhani",
+    "category": "Rajdhani",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "22691",
+    "trainName": "Bengaluru Rajdhani",
+    "category": "Rajdhani",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "12213",
+    "trainName": "Delhi Duronto",
+    "category": "Duronto",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "12273",
+    "trainName": "Howrah Duronto",
+    "category": "Duronto",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "12259",
+    "trainName": "Sealdah Duronto",
+    "category": "Duronto",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "12263",
+    "trainName": "Pune Duronto",
+    "category": "Duronto",
+    "route": [],
+    "dataSource": "static"
+  },
+
+  {
+    "trainNumber": "12245",
+    "trainName": "Howrah Duronto",
+    "category": "Duronto",
+    "route": [],
+    "dataSource": "static"
+  }
+]

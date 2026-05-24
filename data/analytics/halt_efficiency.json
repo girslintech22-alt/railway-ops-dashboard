@@ -1,0 +1,1307 @@
+[
+  {
+    "trainNumber": "12213",
+    "stationCode": "YPR",
+    "stationName": "Yesvantpur Jn",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12213",
+    "stationCode": "GTL",
+    "stationName": "Guntakal Jn",
+    "sequence": 36,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12213",
+    "stationCode": "SC",
+    "stationName": "Secunderabad Jn",
+    "sequence": 104,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12213",
+    "stationCode": "BPQ",
+    "stationName": "Balharshah",
+    "sequence": 160,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12213",
+    "stationCode": "NGP",
+    "stationName": "Nagpur Jn",
+    "sequence": 193,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12213",
+    "stationCode": "RKMP",
+    "stationName": "Rani Kamalapati",
+    "sequence": 242,
+    "day": 2,
+    "haltDurationMinutes": 8.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12213",
+    "stationCode": "VGLJ",
+    "stationName": "VGL Jhansi Jn",
+    "sequence": 284,
+    "day": 3,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12213",
+    "stationCode": "DEE",
+    "stationName": "Delhi Sarai Rohilla",
+    "sequence": 348,
+    "day": 3,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12245",
+    "stationCode": "HWH",
+    "stationName": "Howrah Jn",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12245",
+    "stationCode": "BBS",
+    "stationName": "Bhubaneswar",
+    "sequence": 97,
+    "day": 1,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12245",
+    "stationCode": "VZM",
+    "stationName": "Vizianagaram Jn",
+    "sequence": 154,
+    "day": 1,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12245",
+    "stationCode": "BZA",
+    "stationName": "Vijayawada Jn",
+    "sequence": 224,
+    "day": 2,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12245",
+    "stationCode": "RU",
+    "stationName": "Renigunta Jn",
+    "sequence": 284,
+    "day": 2,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12245",
+    "stationCode": "SMVB",
+    "stationName": "SMVT Bengaluru",
+    "sequence": 347,
+    "day": 2,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12259",
+    "stationCode": "SDAH",
+    "stationName": "Sealdah",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12259",
+    "stationCode": "DHN",
+    "stationName": "Dhanbad Jn",
+    "sequence": 77,
+    "day": 1,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12259",
+    "stationCode": "KQR",
+    "stationName": "Koderma Jn",
+    "sequence": 101,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12259",
+    "stationCode": "DDU",
+    "stationName": "Pt DD Upadhyaya Jn",
+    "sequence": 155,
+    "day": 2,
+    "haltDurationMinutes": 7.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12259",
+    "stationCode": "CNB",
+    "stationName": "Kanpur Ctrl",
+    "sequence": 207,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12259",
+    "stationCode": "NDLS",
+    "stationName": "New Delhi",
+    "sequence": 276,
+    "day": 2,
+    "haltDurationMinutes": 15.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12259",
+    "stationCode": "LHU",
+    "stationName": "Loharu Jn",
+    "sequence": 313,
+    "day": 2,
+    "haltDurationMinutes": 3.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12259",
+    "stationCode": "SDLP",
+    "stationName": "Sadulpur Jn",
+    "sequence": 322,
+    "day": 2,
+    "haltDurationMinutes": 3.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12259",
+    "stationCode": "CUR",
+    "stationName": "Churu Jn",
+    "sequence": 328,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12259",
+    "stationCode": "RTGH",
+    "stationName": "Ratangarh Jn",
+    "sequence": 333,
+    "day": 2,
+    "haltDurationMinutes": 3.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12259",
+    "stationCode": "SDGH",
+    "stationName": "Sri Dungargarh",
+    "sequence": 341,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12259",
+    "stationCode": "BKN",
+    "stationName": "Bikaner Jn",
+    "sequence": 348,
+    "day": 2,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12263",
+    "stationCode": "PUNE",
+    "stationName": "Pune Jn",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12263",
+    "stationCode": "BSR",
+    "stationName": "Vasai Road",
+    "sequence": 46,
+    "day": 1,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12263",
+    "stationCode": "ST",
+    "stationName": "Surat",
+    "sequence": 84,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12263",
+    "stationCode": "BRC",
+    "stationName": "Vadodara Jn",
+    "sequence": 110,
+    "day": 1,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12263",
+    "stationCode": "RTM",
+    "stationName": "Ratlam Jn",
+    "sequence": 149,
+    "day": 1,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12263",
+    "stationCode": "KOTA",
+    "stationName": "Kota Jn",
+    "sequence": 185,
+    "day": 2,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12263",
+    "stationCode": "NZM",
+    "stationName": "Hazrat Nizamuddin",
+    "sequence": 253,
+    "day": 2,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12273",
+    "stationCode": "HWH",
+    "stationName": "Howrah Jn",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12273",
+    "stationCode": "ASN",
+    "stationName": "Asansol Jn",
+    "sequence": 62,
+    "day": 1,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12273",
+    "stationCode": "JSME",
+    "stationName": "Jasidih Jn",
+    "sequence": 84,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12273",
+    "stationCode": "PNBE",
+    "stationName": "Patna Jn",
+    "sequence": 153,
+    "day": 1,
+    "haltDurationMinutes": 7.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12273",
+    "stationCode": "DDU",
+    "stationName": "Pt DD Upadhyaya Jn",
+    "sequence": 205,
+    "day": 1,
+    "haltDurationMinutes": 7.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12273",
+    "stationCode": "CNB",
+    "stationName": "Kanpur Ctrl",
+    "sequence": 257,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12273",
+    "stationCode": "NDLS",
+    "stationName": "New Delhi",
+    "sequence": 326,
+    "day": 2,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12301",
+    "stationCode": "HWH",
+    "stationName": "Howrah Jn",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12301",
+    "stationCode": "ASN",
+    "stationName": "Asansol Jn",
+    "sequence": 62,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12301",
+    "stationCode": "DHN",
+    "stationName": "Dhanbad Jn",
+    "sequence": 74,
+    "day": 1,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12301",
+    "stationCode": "PNME",
+    "stationName": "Parasnath",
+    "sequence": 83,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12301",
+    "stationCode": "GAYA",
+    "stationName": "Gaya Jn",
+    "sequence": 112,
+    "day": 1,
+    "haltDurationMinutes": 3.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12301",
+    "stationCode": "DDU",
+    "stationName": "Pt DD Upadhyaya Jn",
+    "sequence": 152,
+    "day": 2,
+    "haltDurationMinutes": 7.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12301",
+    "stationCode": "PRYJ",
+    "stationName": "Prayagraj Jn",
+    "sequence": 174,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12301",
+    "stationCode": "CNB",
+    "stationName": "Kanpur Ctrl",
+    "sequence": 204,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12301",
+    "stationCode": "NDLS",
+    "stationName": "New Delhi",
+    "sequence": 273,
+    "day": 2,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "DBRG",
+    "stationName": "Dibrugarh",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "NTSK",
+    "stationName": "New Tinsukia Jn",
+    "sequence": 7,
+    "day": 1,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "MXN",
+    "stationName": "Mariani Jn",
+    "sequence": 34,
+    "day": 1,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "FKG",
+    "stationName": "Furkating Jn",
+    "sequence": 39,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "DMV",
+    "stationName": "Dimapur",
+    "sequence": 49,
+    "day": 2,
+    "haltDurationMinutes": 7.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "DPU",
+    "stationName": "Diphu",
+    "sequence": 55,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "LMG",
+    "stationName": "Lumding Jn",
+    "sequence": 59,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "CPK",
+    "stationName": "Chaparmukh Jn",
+    "sequence": 70,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "GHY",
+    "stationName": "Guwahati",
+    "sequence": 87,
+    "day": 2,
+    "haltDurationMinutes": 15.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "RNY",
+    "stationName": "Rangiya Jn",
+    "sequence": 93,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "NBQ",
+    "stationName": "New Bongaigaon Jn",
+    "sequence": 108,
+    "day": 2,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "KOJ",
+    "stationName": "Kokrajhar",
+    "sequence": 113,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "NCB",
+    "stationName": "New Cooch Behar",
+    "sequence": 125,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "NJP",
+    "stationName": "New Jalpaiguri Jn",
+    "sequence": 143,
+    "day": 2,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "KNE",
+    "stationName": "KishanGanj",
+    "sequence": 156,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "KIR",
+    "stationName": "Katihar Jn",
+    "sequence": 178,
+    "day": 2,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "NNA",
+    "stationName": "Naugachia",
+    "sequence": 188,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "MNE",
+    "stationName": "Mansi Jn",
+    "sequence": 198,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "BJU",
+    "stationName": "Barauni Jn",
+    "sequence": 211,
+    "day": 2,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "PPTA",
+    "stationName": "Patliputra Jn",
+    "sequence": 237,
+    "day": 2,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "DNR",
+    "stationName": "Danapur",
+    "sequence": 238,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "DDU",
+    "stationName": "Pt DD Upadhyaya Jn",
+    "sequence": 287,
+    "day": 3,
+    "haltDurationMinutes": 7.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "PRYJ",
+    "stationName": "Prayagraj Jn",
+    "sequence": 309,
+    "day": 3,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "CNB",
+    "stationName": "Kanpur Ctrl",
+    "sequence": 339,
+    "day": 3,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12423",
+    "stationCode": "NDLS",
+    "stationName": "New Delhi",
+    "sequence": 408,
+    "day": 3,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "TVC",
+    "stationName": "Thiruvananthapuram Ctrl",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "QLN",
+    "stationName": "Kollam Jn",
+    "sequence": 18,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "ALLP",
+    "stationName": "Alappuzha",
+    "sequence": 31,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "ERS",
+    "stationName": "Ernakulam Jn",
+    "sequence": 43,
+    "day": 1,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "TCR",
+    "stationName": "Thrissur",
+    "sequence": 59,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "SRR",
+    "stationName": "Shoranur Jn",
+    "sequence": 66,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "CLT",
+    "stationName": "Kozhikode Main",
+    "sequence": 81,
+    "day": 2,
+    "haltDurationMinutes": 3.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "CAN",
+    "stationName": "Kannur",
+    "sequence": 100,
+    "day": 2,
+    "haltDurationMinutes": 3.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "KGQ",
+    "stationName": "Kasaragod",
+    "sequence": 116,
+    "day": 2,
+    "haltDurationMinutes": 1.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "MAJN",
+    "stationName": "Mangaluru Jn",
+    "sequence": 124,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "UD",
+    "stationName": "Udupi",
+    "sequence": 136,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "KAWR",
+    "stationName": "Karwar",
+    "sequence": 153,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "MAO",
+    "stationName": "Madgaon Jn",
+    "sequence": 158,
+    "day": 2,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "RN",
+    "stationName": "Ratnagiri",
+    "sequence": 181,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "PNVL",
+    "stationName": "Panvel Jn",
+    "sequence": 212,
+    "day": 2,
+    "haltDurationMinutes": 3.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "BSR",
+    "stationName": "Vasai Road",
+    "sequence": 227,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "ST",
+    "stationName": "Surat",
+    "sequence": 265,
+    "day": 2,
+    "haltDurationMinutes": 3.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "BRC",
+    "stationName": "Vadodara Jn",
+    "sequence": 291,
+    "day": 2,
+    "haltDurationMinutes": 8.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "RTM",
+    "stationName": "Ratlam Jn",
+    "sequence": 330,
+    "day": 3,
+    "haltDurationMinutes": 3.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "KOTA",
+    "stationName": "Kota Jn",
+    "sequence": 366,
+    "day": 3,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12431",
+    "stationCode": "NZM",
+    "stationName": "Hazrat Nizamuddin",
+    "sequence": 434,
+    "day": 3,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12951",
+    "stationCode": "MMCT",
+    "stationName": "Mumbai Ctrl",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12951",
+    "stationCode": "BVI",
+    "stationName": "Borivali",
+    "sequence": 19,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12951",
+    "stationCode": "ST",
+    "stationName": "Surat",
+    "sequence": 62,
+    "day": 1,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12951",
+    "stationCode": "BRC",
+    "stationName": "Vadodara Jn",
+    "sequence": 88,
+    "day": 1,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "12951",
+    "stationCode": "RTM",
+    "stationName": "Ratlam Jn",
+    "sequence": 127,
+    "day": 2,
+    "haltDurationMinutes": 3.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12951",
+    "stationCode": "NAD",
+    "stationName": "Nagda Jn",
+    "sequence": 133,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12951",
+    "stationCode": "KOTA",
+    "stationName": "Kota Jn",
+    "sequence": 163,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "12951",
+    "stationCode": "NDLS",
+    "stationName": "New Delhi",
+    "sequence": 235,
+    "day": 2,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "20171",
+    "stationCode": "RKMP",
+    "stationName": "Rani Kamalapati",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "20171",
+    "stationCode": "VGLJ",
+    "stationName": "VGL Jhansi Jn",
+    "sequence": 43,
+    "day": 1,
+    "haltDurationMinutes": 4.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "20171",
+    "stationCode": "GWL",
+    "stationName": "Gwalior Jn",
+    "sequence": 55,
+    "day": 1,
+    "haltDurationMinutes": 4.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "20171",
+    "stationCode": "AGC",
+    "stationName": "Agra Cantt",
+    "sequence": 69,
+    "day": 1,
+    "haltDurationMinutes": 4.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "20171",
+    "stationCode": "NZM",
+    "stationName": "Hazrat Nizamuddin",
+    "sequence": 98,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "20643",
+    "stationCode": "MAS",
+    "stationName": "MGR Chennai Ctrl",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "20643",
+    "stationCode": "SA",
+    "stationName": "Salem Jn",
+    "sequence": 77,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "20643",
+    "stationCode": "ED",
+    "stationName": "Erode Jn",
+    "sequence": 86,
+    "day": 1,
+    "haltDurationMinutes": 3.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "20643",
+    "stationCode": "TUP",
+    "stationName": "Tiruppur",
+    "sequence": 94,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "20643",
+    "stationCode": "CBE",
+    "stationName": "Coimbatore Jn",
+    "sequence": 102,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "22223",
+    "stationCode": "CSMT",
+    "stationName": "Mumbai CSM Trm",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "22223",
+    "stationCode": "DR",
+    "stationName": "Dadar Ctrl",
+    "sequence": 11,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22223",
+    "stationCode": "TNA",
+    "stationName": "Thane",
+    "sequence": 24,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22223",
+    "stationCode": "KYN",
+    "stationName": "Kalyan Jn",
+    "sequence": 35,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22223",
+    "stationCode": "NK",
+    "stationName": "Nashik Road",
+    "sequence": 57,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22223",
+    "stationCode": "SNSI",
+    "stationName": "Sainagar Shirdi",
+    "sequence": 76,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "22301",
+    "stationCode": "HWH",
+    "stationName": "Howrah Jn",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "22301",
+    "stationCode": "BHP",
+    "stationName": "Bolpur Shantiniketan",
+    "sequence": 45,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22301",
+    "stationCode": "MLDT",
+    "stationName": "Malda Town",
+    "sequence": 78,
+    "day": 1,
+    "haltDurationMinutes": 3.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22301",
+    "stationCode": "BOE",
+    "stationName": "Barsoi Jn",
+    "sequence": 98,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22301",
+    "stationCode": "KNE",
+    "stationName": "KishanGanj",
+    "sequence": 109,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22301",
+    "stationCode": "NJP",
+    "stationName": "New Jalpaiguri Jn",
+    "sequence": 122,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "22436",
+    "stationCode": "NDLS",
+    "stationName": "New Delhi",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "22436",
+    "stationCode": "CNB",
+    "stationName": "Kanpur Ctrl",
+    "sequence": 70,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22436",
+    "stationCode": "PRYJ",
+    "stationName": "Prayagraj Jn",
+    "sequence": 100,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22436",
+    "stationCode": "BSB",
+    "stationName": "Varanasi Jn",
+    "sequence": 124,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "SBC",
+    "stationName": "KSR Bengaluru City Jn",
+    "sequence": 1,
+    "day": 1,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "SSPN",
+    "stationName": "Sri Sathya Sai Prashanthi Nilayam",
+    "sequence": 26,
+    "day": 1,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "GTL",
+    "stationName": "Guntakal Jn",
+    "sequence": 42,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "RC",
+    "stationName": "Raichur Jn",
+    "sequence": 58,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "YG",
+    "stationName": "Yadgir",
+    "sequence": 67,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "SEM",
+    "stationName": "Sedam",
+    "sequence": 79,
+    "day": 2,
+    "haltDurationMinutes": 1.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "SC",
+    "stationName": "Secunderabad Jn",
+    "sequence": 110,
+    "day": 2,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "KZJ",
+    "stationName": "Kazipet Jn",
+    "sequence": 130,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "BPQ",
+    "stationName": "Balharshah",
+    "sequence": 166,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "NGP",
+    "stationName": "Nagpur Jn",
+    "sequence": 199,
+    "day": 2,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "ET",
+    "stationName": "Itarsi Jn",
+    "sequence": 239,
+    "day": 2,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "BPL",
+    "stationName": "Bhopal Jn",
+    "sequence": 253,
+    "day": 2,
+    "haltDurationMinutes": 10.0,
+    "isEfficientHalt": false
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "VGLJ",
+    "stationName": "VGL Jhansi Jn",
+    "sequence": 294,
+    "day": 3,
+    "haltDurationMinutes": 5.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "GWL",
+    "stationName": "Gwalior Jn",
+    "sequence": 307,
+    "day": 3,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "AGC",
+    "stationName": "Agra Cantt",
+    "sequence": 321,
+    "day": 3,
+    "haltDurationMinutes": 2.0,
+    "isEfficientHalt": true
+  },
+  {
+    "trainNumber": "22691",
+    "stationCode": "NZM",
+    "stationName": "Hazrat Nizamuddin",
+    "sequence": 350,
+    "day": 3,
+    "haltDurationMinutes": null,
+    "isEfficientHalt": false
+  }
+]
